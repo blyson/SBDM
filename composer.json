@@ -1,0 +1,13 @@
+{
+    "name": "sbdm/test",
+    "license": "MIT",
+    "require": {
+        "php": "^8.1",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
